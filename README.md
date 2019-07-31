@@ -1,2 +1,7 @@
 # UsefulScripts
-🔥🔥Useful Scripts for Python and Shell🔥🔥
+
+
+:orange_book:
+* python
+
+* shell
